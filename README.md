@@ -21,9 +21,13 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+![image](https://github.com/Anjana2205/simplewebserver/assets/144869446/dec265b5-391d-4030-9cbe-2faed34370af)
+![image](https://github.com/Anjana2205/simplewebserver/assets/144869446/70556ba2-adf1-4795-abbe-4b8bddb6f622)
+
 
 
 ## OUTPUT:
+![image](https://github.com/Anjana2205/simplewebserver/assets/144869446/2c94eed7-7f47-41cc-8dce-a15cc6efba18)
 
 
 ## RESULT:
